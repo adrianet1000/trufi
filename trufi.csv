@@ -1,0 +1,9 @@
+week,Net Income,expenses,date,description,parada
+4,168,81,2023-01-27,t=30 c=41 a=10,casanova
+5,184,66,2023-01-31,t=30 c=31 a=5,verde
+5,149,71.5,2023-02-04,t=30 c=41,verde
+6,192,70,2023-02-06,t=30 c=35.5 a=4.5,amarilla
+6,165,74,2023-02-07,t=30 c=37 a=7,casanova
+6,195.5,127.5,2023-02-08,t=30 c=33.5 a=9 o=55(aceite+silicona),casanova
+6,53.5,165,2023-02-09,t=30 c=35 o=100(mecanico+trabajo cambio de correa),casanova
+6,100.5,52,2023-02-10,t=30 c=17.5 a=4.5,verde
