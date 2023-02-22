@@ -1,10 +1,15 @@
-week ,Net Income ,expenses ,date       ,description                                        ,parada
-   4 ,     168   ,    81   ,2023-01-27 ,t=30 c=41 a=10                                     ,casanova
-   5 ,     184   ,    66   ,2023-01-31 ,t=30 c=31 a=5                                      ,verde
-   5 ,     149   ,    71.5 ,2023-02-04 ,t=30 c=41                                          ,verde
-   6 ,     192   ,    70   ,2023-02-06 ,t=30 c=35.5 a=4.5                                  ,amarilla
-   6 ,     165   ,    74   ,2023-02-07 ,t=30 c=37 a=7                                      ,casanova
-   6 ,     195.5 ,   127.5 ,2023-02-08 ,t=30 c=33.5 a=9 o=55(aceite+silicona)              ,casanova
-   6 ,      53.5 ,   165   ,2023-02-09 ,t=30 c=35 o=100(mecanico+trabajo cambio de correa) ,casanova
-   6 ,     100.5 ,    52   ,2023-02-10 ,t=30 c=17.5 a=4.5                                  ,verde
-     
+week ,Net Income ,expenses ,date       ,description                                           ,parada
+   4 ,     168   ,    81   ,2023-01-27 ,t=30 c=41 a=10                                        ,casanova
+   5 ,     184   ,    66   ,2023-01-31 ,t=30 c=31 a=5                                         ,verde
+   5 ,     149   ,    71.5 ,2023-02-04 ,t=30 c=41                                             ,verde
+   6 ,     192   ,    70   ,2023-02-06 ,t=30 c=35.5 a=4.5                                     ,amarilla
+   6 ,     165   ,    74   ,2023-02-07 ,t=30 c=37 a=7                                         ,casanova
+   6 ,     195.5 ,   127.5 ,2023-02-08 ,t=30 c=33.5 a=9 o=55(aceite+silicona)                 ,casanova
+   6 ,      53.5 ,   165   ,2023-02-09 ,t=30 c=35 o=100(mecanico+trabajo cambio de correa)    ,casanova
+   6 ,     100.5 ,    52   ,2023-02-10 ,t=30 c=17.5 a=4.5                                     ,verde
+   7 ,       0   ,   255   ,2023-02-13 ,t=30 c=45 o=180(mantenimiento cilindro de gas)        ,amarilla
+   7 ,     114.5 ,    50   ,2023-02-14 ,t=30 c=15 a=5                                         ,casanova
+   7 ,     149   ,   102   ,2023-02-15 ,t=30 c=34.5 a=28 o=10(retiro de licencia de transito) ,casanova
+   7 ,     162   ,    80.5 ,2023-02-16 ,t=30 c=33.5 a=17                                      ,verde
+   7 ,      71   ,    69   ,2023-02-18 ,t=30 c=39                                             ,verde
+   8 ,     194   ,    46   ,2023-02-22 ,t=30 c=14 a=2                                         ,verde
